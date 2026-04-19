@@ -40,7 +40,7 @@
 ## 💻 Key Personal Project
 
 ### 🤖 Jarvis-Yul : 다중 API 통합 기반 업무 자동화 파이프라인
-> **2026.04 | [🔗 레포지토리 링크 삽입]** <br>
+> **2026.04 | [🔗 [레포지토리 링크 삽입](https://github.com/devYul/polyglot-automation-hub)]** <br>
 > GitHub, Notion, Slack 등 이기종 시스템을 통합하여 개인 업무 및 데이터 로깅을 자동화한 Java 기반 엔진입니다.
 
 * **데이터 멱등성(Idempotency) 보장:** GitHub Commit SHA 값을 추출하여 Notion 데이터베이스 쿼리를 통해 사전 검증 로직 구현. 중복 데이터 적재를 완벽 차단.
