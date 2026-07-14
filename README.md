@@ -1,7 +1,8 @@
 <div align="center">
   <h2>엔터프라이즈 백엔드 개발자, 조상현입니다.</h2>
   <p>삼성 SDI·SDS·반도체 등 대규모 핵심 공정 시스템에서 4년차로 성장한 Java 백엔드 개발자입니다.<br>
-  고정밀 데이터 처리 로직 설계부터 레거시 마이그레이션까지, <b>견고한 시스템과 데이터 정합성</b> 구축에 자부심을 느낍니다.</p>
+  고정밀 데이터 처리 로직 설계부터 레거시 마이그레이션까지, <b>견고한 시스템과 데이터 정합성</b> 구축에 자부심을 느낍니다.<br>
+  현재는 레거시 엔터프라이즈 시스템을 <b>모던 풀스택(Next.js)으로 전환</b>하는 마이그레이션 경험을 쌓고 있습니다.</p>
 </div>
 
 <br>
@@ -13,6 +14,12 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
+
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Database**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
@@ -28,6 +35,22 @@
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br>
+
+## 🔥 Featured Project
+
+### 🏭 제조 PLM 시스템 풀스택 마이그레이션 (Java/JSP → Next.js)
+> **2026.04 ~ 진행중** · 1인 풀스택 · `Next.js 15` `React 19` `TypeScript` `PostgreSQL` · [🔗 프로젝트 상세](https://github.com/devYul/plm-migration-nextjs)
+
+산업설비 제조사의 Java 7 / Spring 3.2 / JSP / MyBatis 레거시 PLM을 **Next.js 15 + PostgreSQL 풀스택으로
+전면 전환·고도화** — 화면 70+ · API 65+ · MyBatis 매퍼 77개 이식, 요건 분석부터 배포·운영까지 단독 수행
+
+- 재귀 CTE 기반 **다단계 BOM 트리 엔진** 구축 (정전개/역전개, 순환 참조 방어)
+- **설계변경(EO) 채번 자동화** — 배포 단위 EO 부여 + 상위 조상 체인 전파(그래프 탐색) 로직 설계
+- **CAD 도면 자동 연계** — 파일명 규약 파싱으로 3D/2D/PDF 자동 분류·품번 매칭
+- **운영 DB 무중단 데이터 정합 재구축** — 원천 대사·채번 표준화, 트랜잭션 드라이런 검증 절차 수립
+- 엑셀 대량 등록 파서 **구버전 양식 하위호환**(헤더명 매칭), 전자결재 연동, 300MB급 대용량 업로드 처리
 
 <br>
 
