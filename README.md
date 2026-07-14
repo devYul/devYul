@@ -46,7 +46,7 @@
 ## 🔥 Featured Project
 
 ### 🏭 제조 PLM 시스템 풀스택 마이그레이션 (Java/JSP → Next.js)
-> **2026.04 ~ 진행중** · 1인 수행 · AI 에이전트 페어 개발 · `Next.js 15` `PostgreSQL` `Claude Code` · [🔗 프로젝트 상세](https://github.com/devYul/plm-migration-nextjs)
+> **2026.06 ~ 진행중** · 1인 수행 · AI 에이전트 페어 개발 · `Next.js 15` `PostgreSQL` `Claude Code` · [🔗 프로젝트 상세](https://github.com/devYul/plm-migration-nextjs)
 
 산업설비 제조사의 Java 7 / Spring 3.2 / JSP / MyBatis 레거시 PLM을 **Next.js 15 + PostgreSQL 풀스택으로
 전면 전환·고도화** — 화면 70+ · API 65+ · MyBatis 매퍼 77개 이식. **요건 분석·설계 의사결정·검증·배포·운영을
