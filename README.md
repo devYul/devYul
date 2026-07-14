@@ -2,7 +2,8 @@
   <h2>엔터프라이즈 백엔드 개발자, 조상현입니다.</h2>
   <p>삼성 SDI·SDS·반도체 등 대규모 핵심 공정 시스템에서 4년차로 성장한 Java 백엔드 개발자입니다.<br>
   고정밀 데이터 처리 로직 설계부터 레거시 마이그레이션까지, <b>견고한 시스템과 데이터 정합성</b> 구축에 자부심을 느낍니다.<br>
-  현재는 레거시 엔터프라이즈 시스템을 <b>모던 풀스택(Next.js)으로 전환</b>하는 마이그레이션 경험을 쌓고 있습니다.</p>
+  현재는 <b>AI 에이전트 기반 개발(Claude Code)</b>로 레거시 엔터프라이즈 시스템을 모던 풀스택으로 전환하며,<br>
+  AI 산출물을 <b>검증 가능한 체계로 통제하는 개발 방식</b>을 실무에서 증명하고 있습니다.</p>
 </div>
 
 <br>
@@ -15,7 +16,7 @@
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
 
-**Frontend**
+**Frontend (AI-assisted)**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,6 +31,10 @@
 ![Nexacro](https://img.shields.io/badge/Nexacro_Platform-003087?style=flat-square)
 ![WebSquare](https://img.shields.io/badge/WebSquare5-5C2D91?style=flat-square)
 
+**AI-Augmented Development**
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=claude&logoColor=white)
+
 **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
@@ -41,10 +46,11 @@
 ## 🔥 Featured Project
 
 ### 🏭 제조 PLM 시스템 풀스택 마이그레이션 (Java/JSP → Next.js)
-> **2026.04 ~ 진행중** · 1인 풀스택 · `Next.js 15` `React 19` `TypeScript` `PostgreSQL` · [🔗 프로젝트 상세](https://github.com/devYul/plm-migration-nextjs)
+> **2026.04 ~ 진행중** · 1인 수행 · AI 에이전트 페어 개발 · `Next.js 15` `PostgreSQL` `Claude Code` · [🔗 프로젝트 상세](https://github.com/devYul/plm-migration-nextjs)
 
 산업설비 제조사의 Java 7 / Spring 3.2 / JSP / MyBatis 레거시 PLM을 **Next.js 15 + PostgreSQL 풀스택으로
-전면 전환·고도화** — 화면 70+ · API 65+ · MyBatis 매퍼 77개 이식, 요건 분석부터 배포·운영까지 단독 수행
+전면 전환·고도화** — 화면 70+ · API 65+ · MyBatis 매퍼 77개 이식. **요건 분석·설계 의사결정·검증·배포·운영을
+총괄**하고 구현은 AI 에이전트(Claude Code)와 페어로 진행, 산출물은 드라이런·실조회 검증 게이트로 통제
 
 - 재귀 CTE 기반 **다단계 BOM 트리 엔진** 구축 (정전개/역전개, 순환 참조 방어)
 - **설계변경(EO) 채번 자동화** — 배포 단위 EO 부여 + 상위 조상 체인 전파(그래프 탐색) 로직 설계
