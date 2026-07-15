@@ -1,6 +1,6 @@
 <div align="center">
   <h2>엔터프라이즈 백엔드 개발자, 조상현입니다.</h2>
-  <p>삼성 SDI·SDS·반도체 등 대규모 핵심 공정 시스템에서 4년차로 성장한 Java 백엔드 개발자입니다.<br>
+  <p>삼성SDI·삼성SDS·삼성전자 DS 등 대규모 핵심 공정 시스템에서 4년차로 성장한 Java 백엔드 개발자입니다.<br>
   고정밀 데이터 처리 로직 설계부터 레거시 마이그레이션까지, <b>견고한 시스템과 데이터 정합성</b> 구축에 자부심을 느낍니다.<br>
   현재는 <b>AI 에이전트 기반 개발(Claude Code)</b>로 레거시 엔터프라이즈 시스템을 모던 풀스택으로 전환하며,<br>
   AI 산출물을 <b>검증 가능한 체계로 통제하는 개발 방식</b>을 실무에서 증명하고 있습니다.</p>
@@ -11,7 +11,7 @@
 ## 🛠️ Tech Stack
 
 **Backend**
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-000000?style=flat-square)
@@ -57,6 +57,7 @@
 - **CAD 도면 자동 연계** — 파일명 규약 파싱으로 3D/2D/PDF 자동 분류·품번 매칭
 - **운영 DB 무중단 데이터 정합 재구축** — 원천 대사·채번 표준화, 트랜잭션 드라이런 검증 절차 수립
 - 엑셀 대량 등록 파서 **구버전 양식 하위호환**(헤더명 매칭), 전자결재 연동, 300MB급 대용량 업로드 처리
+- 문제 해결 과정을 블로그에 연재 중 → [📝 PLM 마이그레이션 문제해결기](https://devyul.com/category/plm-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/)
 
 <br>
 
